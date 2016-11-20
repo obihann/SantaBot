@@ -1,0 +1,9 @@
+[Core]
+Name = SantaBot
+Module = santaBot
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = A Errbot plugin to help organize your secret santa parties
